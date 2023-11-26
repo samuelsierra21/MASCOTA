@@ -25,5 +25,10 @@
             </div>
         </div>
     </header>
+    <main>
+        <div class="Img_Content">
+            <img class="Img_Content_Principal" src="./img/retrato-grupo-adorables-cachorros.jpg" alt="Img">
+        </div>
+    </main>
 </body>
 </html>

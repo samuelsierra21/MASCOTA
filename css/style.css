@@ -7,9 +7,10 @@
     text-decoration: none;
 }
 header{
+    display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 100vw;
+    width: 98.7vw;
     height: 15vh;
     background-color:black;
     
@@ -53,4 +54,15 @@ header{
 }
 .Btn a{
     color: #000;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7vh;
+
+}
+.Img_Content_Principal{
+    width: 70vw;
+    height: 80vh;
 }
